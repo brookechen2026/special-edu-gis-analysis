@@ -1,6 +1,6 @@
 # Illinois Special Education GIS Analysis
 
-An individual project by Xiaoxi Chen for GGIS 403 at the University of Illinois Urbana-Champaign, Spring 2026.
+An individual project by Xiaoxi Chen for GGIS 403: Geographic Information Science and Systems at the University of Illinois Urbana-Champaign, Spring 2026.
 
 This project explores county-level variation in special education enrollment indicators using Illinois State Board of Education Report Card data and U.S. Census TIGER/Line county boundaries.
 
