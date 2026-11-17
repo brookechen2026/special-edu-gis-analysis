@@ -4,6 +4,9 @@ An individual project by Xiaoxi Chen for GGIS 403: Geographic Information Scienc
 
 This project explores county-level variation in special education enrollment indicators using Illinois State Board of Education Report Card data and U.S. Census TIGER/Line county boundaries.
 ## Overview
+
+View the final output and explainations:
+
 https://github.com/brookechen2026/special-edu-gis-analysis/blob/main/FinalReport.pdf
 
 
